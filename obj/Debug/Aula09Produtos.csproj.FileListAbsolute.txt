@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\bin\Debug\Aula09Produtos.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\bin\Debug\Aula09Produtos.exe
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\bin\Debug\Aula09Produtos.pdb
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\obj\Debug\Aula09Produtos.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\obj\Debug\Aula09Produtos.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\obj\Debug\Aula09Produtos.exe
+C:\Users\stella.gmendonca\source\repos\Aula09Produtos\Aula09Produtos\obj\Debug\Aula09Produtos.pdb
